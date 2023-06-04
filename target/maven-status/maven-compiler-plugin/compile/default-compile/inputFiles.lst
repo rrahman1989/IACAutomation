@@ -5,6 +5,7 @@ C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\util
 C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\utility\ssh\Expect.java
 C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\utility\ApacheJDBC.java
 C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\config\environment\ProdEnvironment.java
+C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\jenkins\aws\Jenkins.java
 C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\utility\excel\ApachePOIExcel.java
 C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\ec2\aws\EC2Instance.java
 C:\Users\rahma\eclipse-workspace\IACAutomation\src\main\java\com\automation\utility\database\ApacheJDBC.java

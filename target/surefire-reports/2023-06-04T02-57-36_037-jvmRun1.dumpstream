@@ -1,0 +1,4 @@
+# Created at 2023-06-04T02:57:37.722
+
+com.automation.automation.Automation.jenkinsInstallation() is depending on method public void com.automation.automation.Automation.createEC2(), which is not annotated with @Test or not included.
+

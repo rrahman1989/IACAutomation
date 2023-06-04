@@ -6,7 +6,7 @@
       <class name="com.automation.automation.Automation">
         <methods>
           <include name="afterTest"/>
-          <include name="createEC2"/>
+          <include name="jenkinsInstallation"/>
           <include name="before"/>
         </methods>
       </class> <!-- com.automation.automation.Automation -->
